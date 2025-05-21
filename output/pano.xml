@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tour apprev="18105" start="node2" appversion="6.1.14">
   <panorama id="node2">
-    <input levelingroll="0" prev5url="images/Panorama(2)_o_preview_5.jpg" prev2url="images/Panorama(2)_o_preview_2.jpg" prev3url="images/Panorama(2)_o_preview_3.jpg" tile0url="images/Panorama(2)_o_0.jpg" tile5url="images/Panorama(2)_o_5.jpg" prev0url="images/Panorama(2)_o_preview_0.jpg" tilevrurl="images/Panorama(2)_ovr.jpg" tilesize="2560" prev1url="images/Panorama(2)_o_preview_1.jpg" tile2url="images/Panorama(2)_o_2.jpg" tile3url="images/Panorama(2)_o_3.jpg" tilescale="1.003906" tile4url="images/Panorama(2)_o_4.jpg" tile1url="images/Panorama(2)_o_1.jpg" prev4url="images/Panorama(2)_o_preview_4.jpg" levelingpitch="0">
+    <input levelingroll="0" prev5url="images/Panorama(2)_o_preview_5.jpg" prev2url="images/Panorama(2)_o_preview_2.jpg" prev3url="images/Panorama(2)_o_preview_3.jpg" tile0url="images/Panorama(2)_o_0.jpg" tile5url="images/Panorama(2)_o_5.jpg" prev0url="images/Panorama(2)_o_preview_0.jpg" tilevrurl="images/Panorama(2)_ovr.jpg" tilesize="4096" prev1url="images/Panorama(2)_o_preview_1.jpg" tile2url="images/Panorama(2)_o_2.jpg" tile3url="images/Panorama(2)_o_3.jpg" tilescale="1.002441" tile4url="images/Panorama(2)_o_4.jpg" tile1url="images/Panorama(2)_o_1.jpg" prev4url="images/Panorama(2)_o_preview_4.jpg" levelingpitch="0">
       <preview color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -22,7 +22,7 @@
     <control rubberband="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" contextprojections="0" speedwheel="1" contextfullscreen="1" invertwheel="0" lockedmouse="0" simulatemass="1" lockedkeyboard="0" hideabout="0" invertcontrol="1" contextvr="1"/>
   </panorama>
   <panorama id="node1">
-    <input levelingroll="0" prev5url="images/Panorama(1)_o_preview_5.jpg" prev2url="images/Panorama(1)_o_preview_2.jpg" prev3url="images/Panorama(1)_o_preview_3.jpg" tile0url="images/Panorama(1)_o_0.jpg" tile5url="images/Panorama(1)_o_5.jpg" prev0url="images/Panorama(1)_o_preview_0.jpg" tilevrurl="images/Panorama(1)_ovr.jpg" tilesize="2560" prev1url="images/Panorama(1)_o_preview_1.jpg" tile2url="images/Panorama(1)_o_2.jpg" tile3url="images/Panorama(1)_o_3.jpg" tilescale="1.003906" tile4url="images/Panorama(1)_o_4.jpg" tile1url="images/Panorama(1)_o_1.jpg" prev4url="images/Panorama(1)_o_preview_4.jpg" levelingpitch="0">
+    <input levelingroll="0" prev5url="images/Panorama(1)_o_preview_5.jpg" prev2url="images/Panorama(1)_o_preview_2.jpg" prev3url="images/Panorama(1)_o_preview_3.jpg" tile0url="images/Panorama(1)_o_0.jpg" tile5url="images/Panorama(1)_o_5.jpg" prev0url="images/Panorama(1)_o_preview_0.jpg" tilevrurl="images/Panorama(1)_ovr.jpg" tilesize="4096" prev1url="images/Panorama(1)_o_preview_1.jpg" tile2url="images/Panorama(1)_o_2.jpg" tile3url="images/Panorama(1)_o_3.jpg" tilescale="1.002441" tile4url="images/Panorama(1)_o_4.jpg" tile1url="images/Panorama(1)_o_1.jpg" prev4url="images/Panorama(1)_o_preview_4.jpg" levelingpitch="0">
       <preview color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
